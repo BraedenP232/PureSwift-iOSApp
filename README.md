@@ -1,6 +1,6 @@
 # Portfolio App
 <div width="50px" height="50px">
-   ![App_Logo](logo.png)
+   <img src="logo.png" alt="Logo">
 </div>
 
 
