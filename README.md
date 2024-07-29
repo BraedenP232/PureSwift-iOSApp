@@ -1,6 +1,8 @@
 # Portfolio App
+<div width="50px" height="50px">
+   ![App_Logo](logo.png)
+</div>
 
-![App_Logo](logo.png)
 
 My iOS application that is written entirely in Swift and built using UiKit.
 
