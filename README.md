@@ -1,7 +1,5 @@
 # Portfolio App
-<div width="50px" height="50px">
-   <img src="logo.png" alt="Logo">
-</div>
+<img src="logo.png" width="50px" height="50px" alt="Logo">
 
 
 My iOS application that is written entirely in Swift and built using UiKit.
